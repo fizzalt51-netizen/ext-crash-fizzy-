@@ -1,3 +1,5 @@
+                                                                             Part 1 (3 methods)
+
 Before you start you need to make sure you already have error 414 request bookmarklet on chrome this works mostly on chrome OS but i can say it might work on windows but not sure yet.
 Next you need chrome:restart not machine restart in your search bar you type it in 
 after that well we have 3 methods for part 1 in case one gets patched so hold your breath and lets get going!
